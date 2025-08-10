@@ -2,23 +2,12 @@
 
 <!--
 **chethan457/chethan457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 <h1 align="center">Hi 👋, I'm Chethan H</h1>
 <h3 align="center">Aspiring Full-Stack Web Developer | Creative Thinker | Growth Seeker</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=chethan457&label=Profile%20views&color=0e75b6&style=flat" alt="chethan457" />
 </p>
 
@@ -44,8 +33,9 @@ This project reflects my disciplined learning and creative self-expression.
 
 ### 📫 How to Reach Me
 
-**Email:** chethan54h@gmail.com  
-**GitHub:** [@chethan457](https://github.com/chethan457)
+- 📧 **Email:** [chethan54h@gmail.com](mailto:chethan54h@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/chethan-h](https://www.linkedin.com/in/chethan-h-577aa42ab)  
+- 🧑‍💻 **GitHub:** [github.com/chethan457](https://github.com/chethan457)
 
 ---
 
